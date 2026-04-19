@@ -56,9 +56,9 @@ This Board
 
 | File | Description |
 |---|---|
-| `second.kicad_sch` | Schematic |
-| `second.kicad_pcb` | PCB layout |
-| `second.kicad_pro` | KiCad project file |
+| `multi_output_power_supply.kicad_sch` | Schematic |
+| `multi_output_power_supply.kicad_pcb` | PCB layout |
+| `multi_output_power_supply.kicad_pro` | KiCad project file |
 
 ## What You Need
 
