@@ -60,11 +60,7 @@ This Board
 | `multi_output_power_supply.kicad_pcb` | PCB layout |
 | `multi_output_power_supply.kicad_pro` | KiCad project file |
 
-## What You Need
 
-- This PCB (manufactured or on breadboard)
-- A **12V DC wall adapter** with a barrel jack connector (not included)
-- Soldering iron + solder
 
 ## Tools Used
 
